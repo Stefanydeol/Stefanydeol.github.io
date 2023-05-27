@@ -1,0 +1,31 @@
+body{
+    font-family:monospace;
+    background-image: url(https://img.freepik.com/fotos-premium/codigo-fonte-da-area-de-trabalho-e-papel-de-parede-por-linguagem-de-computador-com-codificacao-e-programacao_33771-595.jpg);
+    background-size: cover;
+    font-size:larger;
+}
+h1 {
+    color: #BA55D3;
+}
+
+h3 {
+    color: #9370DB
+}
+
+p, li{
+    color: #FFF0F5;
+    list-style: circle;
+}
+
+#Principal{
+    background-color: black;
+    margin: 250px;
+    padding: 10px;
+    opacity: 0.9;
+}
+
+a, img {
+    align-content: space-between;
+    align-content: space-around;
+}
+  
